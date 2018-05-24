@@ -1,6 +1,6 @@
 # Purchase-Fulfillment-System
 - Created Use case and Domain models for Purchase Fulfillment System which is a subsystem of an Enterprise Resource Planning System.
-- This project is developed as a part of the coursework _CS251-Object Oriented Analysis_ under the supervision of Prof. Jon Pearce at San Jose State University.
+- This project is developed as a part of the coursework _CS251-Object Oriented Analysis_ under the supervision of Dr. Jon Pearce at San Jose State University.
 - The project is implemented in Unified Modeling Language (UML) and is developed using [StarUML](staruml.io).
 - The team members include [Anthony Vo](https://github.com/bridgegade) and [Revanth Akella](https://github.com/RevanthAkella)
 ## Introduction
