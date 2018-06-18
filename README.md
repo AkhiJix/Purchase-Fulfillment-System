@@ -12,4 +12,4 @@ A Purchase Fulfillment System (PFS) is a subsystem of an ERP software, mostly se
 
 In our implementation of the Purchase Fulfillment System, the PFS handles the process of customers selecting a product, purchasing that product, and then delivering the product to the customer. It’s purpose is to ensure that the Customer, Inventory Management System and Shipping System are kept up to date during all stages of the fulfillment process.   
 ### Project
-The Use Case and Domain models for the Purchase Fulfillment System can be found [here](https://www.purchasefulfillmentsystem.wordpress.com).
+The Use Case and Domain models for the Purchase Fulfillment System can be found [here](http://www.purchasefulfillmentsystem.wordpress.com).
